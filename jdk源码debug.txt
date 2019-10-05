@@ -1,0 +1,8 @@
+1，源码打jar包
+    在eclipse中新建一个java项目“jdk”，然后在src目录上导入"Archive File"，选择源码src.zip导入。
+    右键项目export...，然后导出为jar包（java下），起名为rt_debug.jar。
+
+2，修改eclipse的jre设置，将rt_debug.jar添加到jre中，并移动到最前面。
+
+
+https://blog.csdn.net/leehsiao/article/details/50562871

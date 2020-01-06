@@ -1,1 +1,5 @@
-https://www.cnblogs.com/qlky/p/7348353.html
+序列化方式：https://www.cnblogs.com/qlky/p/7348353.html
+各种方式效率比较：https://www.cnblogs.com/coderzhw/p/11094284.html
+
+深拷贝与浅拷贝：https://zhuanlan.zhihu.com/p/96408010?from_voters_page=true
+
